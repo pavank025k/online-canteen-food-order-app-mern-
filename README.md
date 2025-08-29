@@ -34,7 +34,3 @@ git clone https://github.com/pavank025k/online-canteen-food-order-app-mern-.git
 cd canteen-app
 
 
-
-# Run backend
-cd ../frontend
-npm start
