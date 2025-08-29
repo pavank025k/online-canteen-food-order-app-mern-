@@ -37,7 +37,7 @@ cd canteen-app
 # Create .env in backend
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
-PORT=5000
+PORT=5001
 
 # Run frontend
 cd backend
