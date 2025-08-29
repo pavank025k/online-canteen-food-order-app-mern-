@@ -30,18 +30,10 @@
 
 ```bash
 # Clone repo
-git clone https://github.com/pavank025k/online-canteen-food-order-app-mern-
+git clone https://github.com/pavank025k/online-canteen-food-order-app-mern-.git
 cd canteen-app
 
 
-# Create .env in backend
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-PORT=5001
-
-# Run frontend
-cd backend
-npm run dev
 
 # Run backend
 cd ../frontend
